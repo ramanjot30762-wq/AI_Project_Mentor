@@ -7,5 +7,8 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Redirect to Home page
+st.title("🎓 AI-Powered Final Year Project Mentor")
+
+st.write("Redirecting to Home page...")
+
 st.switch_page("pages/Home.py")
