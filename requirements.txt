@@ -1,3 +1,4 @@
 streamlit==1.47.0
+groq>=0.31.0
 openai>=1.95.0
 python-dotenv>=1.1.1
